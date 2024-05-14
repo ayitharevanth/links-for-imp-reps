@@ -1,7 +1,7 @@
 https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024          //ml datacsience
   
   
-  
+  https://github.com/ayitharevanth/awesome-generative-ai-guide
   
   https://github.com/ronitahuja/project-based-learning
 
