@@ -1,6 +1,8 @@
+https://github.com/Jcharis?tab=repositories
+
 https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024          //ml datacsience
   
-  
+=================================================== data science-------------------------------------------------------------------------------------  
   https://github.com/ayitharevanth/awesome-generative-ai-guide
   
   https://github.com/ronitahuja/project-based-learning
