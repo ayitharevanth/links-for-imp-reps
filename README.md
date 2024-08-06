@@ -1,4 +1,12 @@
 
+
+1. Machine Learning Interviews from MAANG (8.1k stars): https://lnkd.in/gq_huuZD
+2. Machine Learning System Design (8k stars): https://lnkd.in/gy33Ttq7
+3. 100 Days of ML code (43k stars): https://lnkd.in/gfWZfaDa
+4. System Design Primer (252k stars):https://lnkd.in/gUEqUpAv
+5. Python Algorithm Implementation (178k stars): https://lnkd.in/g2xPx_tu
+
+
 =================================================== data science-------------------------------------------------------------------------------------  
 https://github.com/Jcharis?tab=repositories
 
